@@ -8,16 +8,7 @@
 </head>
 <body>
 	<div class="content-box">
-		<img class="float-left" src="img/logo.png">
-		<h1>Widgets-R-Us</h1>
-		<h2>Making high-quality widgets since 1991</h2>
-	
-		<nav>
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="about.html">About</a></li>
-			</ul>
-		</nav>
+		<!--#include virtual="inc/header.html" -->
 		<p>
 		<img class="float-left" src="img/factory.jpg" alt="factory">
 		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -49,7 +40,7 @@
 		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 		<div class="footer">
-			<p>We ship for free in the continental United States! Call or <a class="hover-link" href="sales@widgetsrus.com">email us</a> to place an order today</p>
+			<p>We ship for free in the continental United States! Call or <a class="hover-link" href="mailto:sales@widgetsrus.com">email us</a> to place an order today</p>
 			<p>&#169; 2013 Widgets-R-Us</p>
 		</div>
 

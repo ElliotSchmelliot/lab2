@@ -19,7 +19,6 @@ body {
 	margin: 0 auto;
 	box-shadow: 5px 5px 3px #BBB;
 	padding: 10px;
-	min-height: 600px;
 }
 
 h1 {
@@ -51,7 +50,7 @@ nav ul {
 	background-color: #D74710;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 18px;
-	border-radius: 10px;
+	border-radius: 5px;
 }
 
 nav li {
@@ -71,17 +70,26 @@ nav a:visited {
 }
 
 nav a:hover {
-	background-color: #FF9A40;
+	background-color: #FF9D45;
+	border-radius: 5px;
 }
 
 p {
-	padding: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.header {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	overflow: hidden;
 }
 
 .footer {
 	border-top: 1px solid #CCC;
 	font-style: italic;
 	font-size: 80%;
+	clear: both;
 }
 
 .hover-link {
