@@ -19,6 +19,7 @@ body {
 	margin: 0 auto;
 	box-shadow: 5px 5px 3px #BBB;
 	padding: 10px;
+	border: 1px solid #DDD;
 }
 
 h1 {
