@@ -42,5 +42,6 @@
 
 		<!--#include virtual="inc/footer.html" -->
 	</div>
+	<p>hi there</p>
 </body>
 </html>
