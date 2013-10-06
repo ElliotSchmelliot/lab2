@@ -32,6 +32,19 @@ h2 {
 	font-size: 120%;
 }
 
+h3 {
+	color: #116189;
+	font-weight: bold;
+}
+
+.team-box {
+	margin-top: 15px;
+}
+
+.person-desc {
+	padding: 0;
+}
+
 .float-left {
 	float: left;
 	padding-right: 10px;
@@ -98,4 +111,13 @@ p {
 
 .hover-link:hover {
 	text-decoration: underline;
+}
+
+.about-header {
+	font-style: normal;
+	color: #116189;
+	font-size: 24pt;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
